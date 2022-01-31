@@ -497,13 +497,13 @@ header.active
 @media screen and (max-width: 768px){
     #freecode,#udemy
     {
-       padding: 2.5rem;
+       padding: 4.5rem;
        flex-direction: column;
     }
     .c_img img{
         min-width: 100%;
         max-width: 100%;
-        transform: translate(0, -4rem);
+        transform: translate(0, -2rem);
     }
     
 }
