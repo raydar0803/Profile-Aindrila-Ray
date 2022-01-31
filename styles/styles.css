@@ -732,13 +732,7 @@ header.active
 {
     content: "30%"
 }
-@media (max-width:450px)
-{
-    .bar .progress-line span::after{
-        right: -25px;
-    }
 
-}
 
 .Education .box-container
 {
