@@ -503,7 +503,7 @@ header.active
     .c_img img{
         min-width: 100%;
         max-width: 100%;
-        transform: translate(0, -8rem);
+        transform: translate(0, -4rem);
     }
     
 }
