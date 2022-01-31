@@ -654,7 +654,7 @@ header.active
 
 }
 .bar .progress-line span::after{
-    position: relative;
+    position: absolute;
     right: 0;
     top: -28px;
     color: #fff;
