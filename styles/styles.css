@@ -735,7 +735,7 @@ header.active
 @media (max-width:450px)
 {
     .bar .progress-line span::after{
-        right: 15px;
+        right: 25px;
     }
 
 }
