@@ -500,7 +500,7 @@ header.active
        padding: 4.5rem;
        flex-direction: column;
     }
-    .c_img img{
+    .c_img{
         min-width: 100%;
         max-width: 100%;
         transform: translate(0, -2rem);
